@@ -6,9 +6,9 @@
   "main": "lib/index.js",
   "license": "MIT",
   "author": "clair0314",
-  "homepage": "https://github.com/clair0314/dsh-podcast-panel",
+  "homepage": "https://github.com/nekonya77/dsh-podcast-panel",
   "bugs": {
-    "url": "https://github.com/clair0314/dsh-podcast-panel/issues"
+    "url": "https://github.com/nekonya77/dsh-podcast-panel/issues"
   },
   "keywords": [
     "dsh",
@@ -64,6 +64,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clair0314/dsh-podcast-panel.git"
+    "url": "git+https://github.com/nekonya77/dsh-podcast-panel.git"
   }
 }
