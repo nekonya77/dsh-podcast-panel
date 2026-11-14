@@ -17,7 +17,7 @@
 ## 安装
 
 ```bash
-dsh plugin --profile desktop add https://github.com/clair0314/dsh-podcast-panel/releases/download/v0.1.1/dsh-podcast-panel-0.1.1.tgz
+dsh plugin --profile desktop add https://github.com/nekonya77/dsh-podcast-panel/releases/download/v0.1.1/dsh-podcast-panel-0.1.1.tgz
 ```
 
 > npm 上的 `dsh-podcast-panel@0.1.0` 是早一版，暂未更新；优先用上面的 Release tgz。
